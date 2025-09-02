@@ -63,7 +63,7 @@ body {
 }
 
 .navbar-toggler {
-    border-color: var(--secondary-color) !important;
+    border-color: transparent !important;
 }
 
 .navbar-toggler-icon {
